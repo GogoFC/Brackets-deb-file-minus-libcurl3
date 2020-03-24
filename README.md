@@ -1,4 +1,4 @@
-# Brackets-deb-file-minus-libcurl3
+# Brackets deb file repackaged minus libcurl3
 
 Brackets by Adobe https://github.com/adobe/brackets
 
