@@ -13,3 +13,5 @@ https://github.com/adobe/brackets/issues/14868#issuecomment-572990873
 And apparently libcurl is not needed as per shubhsnov in comment below.
 
 https://github.com/adobe/brackets/issues/14667#issuecomment-485782168
+
+deb rebuilt using debtool by brbsix https://github.com/brbsix/debtool
