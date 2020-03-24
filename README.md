@@ -2,7 +2,7 @@
 
 Brackets by Adobe https://github.com/adobe/brackets
 
-Repackaged deb file to remove libcurl3 dependency
+Repackaged deb file to remove `libcurl3` dependency
 
 Works on Debian 10 with dwm.
 
